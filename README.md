@@ -1,5 +1,5 @@
 
-<a href="https://aurorafortune.github.io/aurorafortune./"> <h2> link Site</h2></a> 
+<a href="https://aurorafortune.github.io/aurorafortune./"> <h2> Site</h2></a> 
 
 <h6>Aguarde...</h6>
 
