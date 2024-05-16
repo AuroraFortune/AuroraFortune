@@ -1,5 +1,5 @@
 
-<a href="https://aurorafortune.github.io/aurorafortune./"> SSS></a> 
+<a href="https://aurorafortune.github.io/aurorafortune./"> Aqui</a> 
 
 <h6>Aguarde...</h6>
 
