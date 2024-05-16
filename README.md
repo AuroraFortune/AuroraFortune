@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @AuroraFortune
-- 👀 I’m interested in varias linguagens 
-- ☠️ Eternamente Linux
-- 💞️ I’m looking to collaborate on ShellScript
-- 📫 Entrar Em Contato comigo pelo Telegram @aurorafortune
-- 😄 Pronouns: *****
-- ⚡ Fun fact: ******
 
-<!---
-AuroraFortune/AuroraFortune is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://aurorafortune.github.io/aurorafortune./"> <h2> link Site</h2></a> 
+
+<h6>Aguarde...</h6>
+
+![200w-unscreen](https://github.com/AuroraFortune/AuroraFortune/assets/169999805/3e4315dc-836e-4f47-9575-cb1e4caea503)
+
